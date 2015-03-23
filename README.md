@@ -7,13 +7,13 @@ A QUnit plugin for asserting numerical comparisons like greater than, less than,
 
 This plugin for [QUnit](https://github.com/jquery/qunit) adds a handful of custom assertion methods
 to test for various numerical comparison situations:
- - equal to (`eq`)
- - not equal to (`neq`)
- - less than (`lt`)
- - less than or equal to (`lte`)
- - greater than (`gt`)
- - greater than or equal to (`gte`)
- - sorting-style comparisons (`compare`)
+ - `eq`: equal to
+ - `neq`: not equal to
+ - `lt`: less than
+ - `lte`: less than or equal to
+ - `gt`: greater than
+ - `gte`: greater than or equal to
+ - `compare`: sorting-style comparisons
 
 
 ## Usage
