@@ -1,6 +1,6 @@
 {
   "name": "qunit-assert-compare",
-  "version": "1.0.1",
+  "version": "1.0.2-pre",
   "description": "A QUnit plugin for asserting numerical comparisons like greater than, less than, etc.",
   "main": "qunit-assert-compare.js",
   "scripts": {
