@@ -1,0 +1,62 @@
+{
+  "name": "qunit-assert-compare",
+  "version": "1.0.0",
+  "description": "A QUnit plugin for asserting numerical comparisons like greater than, less than, etc.",
+  "main": "qunit-assert-compare.js",
+  "scripts": {
+    "test": "grunt test --verbose"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JamesMGreene/qunit-assert-compare.git"
+  },
+  "keywords": [
+    "qunit-plugin",
+    "qunit-assert",
+    "assert",
+    "qunit",
+    "less",
+    "lesser",
+    "lessThan",
+    "less than",
+    "lesserThan",
+    "lesser than",
+    "greater",
+    "greaterThan",
+    "greater than",
+    "lessThanOrEqual",
+    "less than or equal",
+    "lesserThanOrEqual",
+    "lesser than or equal",
+    "greaterThanOrEqual",
+    "greater than or equal",
+    "equal",
+    "notEqual",
+    "not equal",
+    "compare",
+    "comparison",
+    "numerical comparison",
+    "lt",
+    "lte",
+    "gt",
+    "gte",
+    "eq",
+    "neq"
+  ],
+  "author": {
+    "name": "James M. Greene",
+    "email": "james.m.greene@gmail.com",
+    "url": "http://greene.io/"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesMGreene/qunit-assert-compare/issues"
+  },
+  "homepage": "https://github.com/JamesMGreene/qunit-assert-compare",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.11.1",
+    "grunt-contrib-qunit": "^0.5.2",
+    "qunitjs": "^1.17.1"
+  }
+}
