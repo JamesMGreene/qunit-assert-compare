@@ -53,6 +53,9 @@
     "url": "https://github.com/JamesMGreene/qunit-assert-compare/issues"
   },
   "homepage": "https://github.com/JamesMGreene/qunit-assert-compare",
+  "peerDependencies": {
+    "qunitjs": "*"
+  },
   "devDependencies": {
     "grunt": "^1.0.1",
     "grunt-contrib-jshint": "^1.0.0",
