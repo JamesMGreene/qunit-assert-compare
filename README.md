@@ -1,7 +1,8 @@
+[![Build Status](https://travis-ci.org/JamesMGreene/qunit-assert-compare.svg?branch=master)](https://travis-ci.org/JamesMGreene/qunit-assert-compare) [![NPM version](https://badge.fury.io/js/qunit-assert-compare.svg)](https://www.npmjs.com/package/qunit-assert-compare)
 # qunit-assert-compare
+
 A QUnit plugin for asserting numerical comparisons like greater than, less than, etc.
 
-[![Build Status](https://travis-ci.org/JamesMGreene/qunit-assert-canvas.png?branch=master)](https://travis-ci.org/JamesMGreene/qunit-assert-canvas) [![NPM version](https://badge.fury.io/js/qunit-assert-canvas.png)](https://www.npmjs.com/package/qunit-assert-canvas)
 
 # QUnit numerical comparison assertion plugin
 
@@ -63,5 +64,5 @@ In lieu of a formal styleguide, take care to maintain the existing coding style.
 
 
 ## License
-Copyright (c) 2015 James M. Greene
+Copyright (c) 2015-2016 James M. Greene
 Licensed under the MIT license.
